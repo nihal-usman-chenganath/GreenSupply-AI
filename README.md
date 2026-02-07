@@ -6,6 +6,10 @@ This project addresses the critical issue of organic waste in the sustainable pa
 
 🚀 Key Features: 
 
+
+
+
+
     Synthetic Data Engineering: Generated a dataset of 1,500+ shipments with scientifically grounded correlations between heat, humidity, and organic decay.
     Predictive Modeling: Implemented a Random Forest Regressor to handle non-linear relationships in biological degradation.
     Feature Importance Analysis: Identified Transit Days as the primary driver of waste, providing actionable business intelligence for logistics optimization.
@@ -31,3 +35,5 @@ This project addresses the critical issue of organic waste in the sustainable pa
     03_model_training.ipynb: Model selection, training, and evaluation.
     04_app.py: The code for the interactive Streamlit dashboard.
     leaf_model.pkl: The serialized (saved) AI model.
+
+https://github.com/user-attachments/assets/d4b795a4-fd95-4f37-812e-d80ee12e99cf
